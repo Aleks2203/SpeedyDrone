@@ -12,4 +12,5 @@ BOM (Shipping Not Apllicable):
 * Fs-i6 Transmitter And Fs-ia6b Reciever - $55 --AliExpress
 * Capacitor - 50c --AliExpress
 * 3D Printed Fuslelage - $5 (Filament)
+
 Total: $186.5-$237.5
