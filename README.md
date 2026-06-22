@@ -33,15 +33,15 @@ This project is an fpv style drone, taking inspiration from the Guinness World R
 Total: $186.50-$237.50
 
 ## Project Status:
-* Concept [x] 20.6.26
-* CAD Modelling Start [x] 21.6.26
-* CAD Modelling Complete [x] 22.6.26
-* Prototype Printed [ ]
-* Electronics Installed [ ]
-* Ground Testing [ ]
-* Maiden Flight [ ]
-* Flight Testing [ ]
-* Project Complete [ ]
+* [x]Concept 20.6.26
+* [x]CAD Modelling Start 21.6.26
+* [x]CAD Modelling Complete 22.6.26
+* [ ]Prototype Printed
+* [ ]Electronics Installed
+* [ ]Ground Testing 
+* [ ]Maiden Flight
+* [ ]Flight Testing 
+* [ ]Project Complete 
 
 ## Future Improvements:
 * CF-PLA Frame
