@@ -11,6 +11,7 @@ This project is an fpv style drone, taking inspiration from the Guinness World R
 * ESC:55A SpeedyBee 4-in-1
 * Rx Tx: FlySky FS-i6 + FS-ia6b
 * Fuselage: Custom 3D Printed Modular Design
+* Weight: 380g
 
 ### Dimensions:
 * Fuselage Length: 230mm
@@ -18,6 +19,7 @@ This project is an fpv style drone, taking inspiration from the Guinness World R
 * Fuselage Width: 80mm
 * Arm Length: 77mm
 * Prop Diameter: 4" *(100mm)*
+* CoG: 67% from the front
 
  
 ## BOM (Shipping Not Applicable):
