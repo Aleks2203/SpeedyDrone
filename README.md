@@ -1,6 +1,7 @@
 # FPV SpeedyDrone Project
 
-This project is an fpv style drone, taking inspiration from the Guiness World Record holder design, and reiterating it for a tighter budget and using recycled parts.
+## Overview
+This project is an fpv style drone, taking inspiration from the Guiness World Record holder design. The goal is to design and make a modular, budget friendly, and fast fpv drone reiterating it for a tighter budget and using recycled parts. 
 
 
 ## BOM (Shipping Not Apllicable):
