@@ -14,3 +14,14 @@ This project is an fpv style drone, taking inspiration from the Guiness World Re
 * 3D Printed Fuslelage - $5 (Filament)
 
 Total: $186.5-$237.5
+
+## Project Status:
+* Concept [x] 20.6.26
+* CAD Modelling Start [x] 21.6.26
+* CAD Modelling Complete[x] 22.6.26
+* Prototype Printed [ ]
+* Electronics Installed [ ]
+* Ground Testing [ ]
+* Maiden Flight [ ]
+* Flight Testing [ ]
+* Project Complete [ ]
