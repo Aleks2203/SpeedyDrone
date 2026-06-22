@@ -13,10 +13,11 @@ This project is an fpv style drone, taking inspiration from the Guinness World R
 * Fuselage: Custom 3D Printed Modular Design
 
 ### Dimensions:
-* Overall Length: 230mm
+* Fuselage Length: 230mm
 * Overall Width: 224mm
 * Fuselage Width: 80mm
 * Arm Length: 77mm
+* Prop Diameter: 4" *(100mm)*
 
  
 ## BOM (Shipping Not Applicable):
