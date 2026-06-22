@@ -16,9 +16,9 @@ This project is an fpv style drone, taking inspiration from the Guiness World Re
 Total: $186.5-$237.5
 
 ## Project Status:
-* Concept [x] 20.6.26
-* CAD Modelling Start [x] 21.6.26
-* CAD Modelling Complete[x] 22.6.26
+* ~~ Concept ~~ [x] 20.6.26
+* ~~ CAD Modelling Start ~~ [x] 21.6.26
+* ~~ CAD Modelling Complete ~~ [x] 22.6.26
 * Prototype Printed [ ]
 * Electronics Installed [ ]
 * Ground Testing [ ]
