@@ -2,6 +2,7 @@
 
 ## Overview:
 This project is an fpv style drone, taking inspiration from the Guinness World Record holder design. The goal is to design and build a modular, budget-friendly, and high-performance FPV drone inspired by the Guinness World Record speed drone while using readily available and recycled components
+
 ## Specifications:
 * Configuration: X-frame
 * Propellers: 4x Gemfan Hurricane 4" 4023 Tri-Blade
@@ -34,8 +35,7 @@ This project is an fpv style drone, taking inspiration from the Guinness World R
 
 Total: $186.50-$237.50
 
-## Design Goals
-
+## Design Goals:
 * Modular three-piece fuselage
 * Internal battery placement
 * Low manufacturing cost
